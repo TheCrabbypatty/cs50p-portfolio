@@ -1,7 +1,6 @@
 # cs50p-portfolio
 My best work from CS50P. Includes the final project, and 3 of my best assignments that were particularly interesting for me. 
 
-# Final Project
 # CLI Calendar App
 #### Video Demo:  <https://youtu.be/0CSX78mS_OM>
 #### Description: My CSP50P project, a text-based CLI Calendar Application.
