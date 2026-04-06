@@ -2,7 +2,6 @@
 My best work from CS50P. Includes the final project, and 3 of my best assignments that were particularly interesting for me. 
 
 # CLI Calendar App
-#### Video Demo:  <https://youtu.be/0CSX78mS_OM>
 #### Description: My CSP50P project, a text-based CLI Calendar Application.
 ## Overview
 For my CS50P final project, I developed a Command Line Interface (CLI) Calendar Application. I chose this project because I am an avid user of digital calendars and wanted to challenge myself by building my own iteration from scratch using Python. My primary focus was to experiment with the logic of the calendar, rather than having persistent memory. Unlike traditional calendars, like Google Calendar, Apple Calendar, and so forth, that rely on external databases, CSVs, or txt files, this application is designed only to run in-memory. While this makes it more of a functional prototype intended for educational purposes and fun, it allowed me to focus deeply on mastering Python’s core data structures and logic flow without the overhead of file I/O management.
