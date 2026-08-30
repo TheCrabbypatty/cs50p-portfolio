@@ -24,3 +24,10 @@ For my CS50P final project, I developed a Command Line Interface (CLI) Calendar 
 I built a simple version of the project first, one that had no viewing, no event names, and only displayed if a spot was occupied or free. During that part of the process, no real bugs or challenges surfaced, since it was pretty simple; however, a big jump was when I decided to add events, which brought 2 more global dictionaries and more data. In addition, I also decided to create descriptions. This led to many logically errors, and my commitment for fixing the users grammar created bugs, because of the mismatch between responses, for example if I titlecased something, I have to remember that when the user types something, and I have to compare the two pieces of data, I have to fix them in the same way, or else, it will always be different. Another challenge was the edge cases, especially because the infrastructure I decided to build this on heavily required a number-based system, yet the user input was mainly text. This caused a lot of logical operations to convert the user's text into an integer or a number. For the most part, "regular" numbers worked; edge cases like 12:00 AM or 12:00 PM had to be singled out as their own case, because of their unique properties in the time scale. This led to a lot of changes in the end, and had I had to do this again, I would certainly plan everything out.
 
 
+
+
+## Last Updated
+
+<!-- TIMESTAMP_START -->
+_Last updated: 2026-08-30 17:12 UTC_
+<!-- TIMESTAMP_END -->
